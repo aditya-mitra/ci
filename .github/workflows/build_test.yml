@@ -185,5 +185,3 @@ jobs:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
                   test-command: 'npm run test:full'
-
-                  ## ad
